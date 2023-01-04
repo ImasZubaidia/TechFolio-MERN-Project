@@ -5,7 +5,7 @@
 <p align="center">
 
    
-<li> This project is developed by team of 4 Full-Stack Developers during MERN Week Project at Axsos Academy.
+<li> This application targets people in the tech field who are looking for jobs, freelancing, internships vacancies. It aims at creating a customized, neat, and professional portfolios for them to facilitate their job-hunting journey. It also facilitates recruiter’s search for employees/interns.  
 
 
  
