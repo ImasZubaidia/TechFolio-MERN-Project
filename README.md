@@ -30,7 +30,7 @@
  
 ## Getting Started
 - clone the repository via ssh `git@github.com:TechFolio-MERN-Project.git` or https `https://github.com/TechFolio-MERN-Project.git`
-- `cd Restaurant_App`
+- `cd TechFolio-MERN-Project`
 - `npm install` 
 
 ## Setup and run server
