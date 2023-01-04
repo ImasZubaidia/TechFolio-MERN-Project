@@ -34,12 +34,12 @@
 - `npm install` 
 
 ## Setup and run server
-- `cd backend`
+- `cd server`
 - `npm install`
 - run `nodemon server`
 
 ## Setup frontend
-- `cd frontend`
+- `cd client`
 - `npm install`
 - run `npm start`
 
