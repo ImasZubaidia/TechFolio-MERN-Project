@@ -25,6 +25,31 @@
  
   # ER Diagram
 ![ERD](https://user-images.githubusercontent.com/110999043/210461879-cc6c5f2b-cc68-48e1-8bd6-2bda547d4cc2.png)
+ 
+  # Samples
+ 
+ 1. Welcoming Page 
+ ![landing_page](https://user-images.githubusercontent.com/110999043/210724938-6f090618-2a57-4e10-b0a5-45c7b1b57962.PNG)
+ 
+ 2.login and registration page
+ ![loginandreg](https://user-images.githubusercontent.com/110999043/210725435-b9c94231-cfdd-4471-8b58-7dc98e772522.PNG)
+
+ 
+3. Dashboard Main Page 
+  ![portfolio_page](https://user-images.githubusercontent.com/110999043/210724273-fba9dbf3-e9c1-4b06-8751-0b987df2e6e4.PNG)
+ 
+ 
+ 4. Create Page
+ ![create_page](https://user-images.githubusercontent.com/110999043/210724662-812b2836-bc63-4135-8b77-9a9014006d46.PNG)
+
+ 5. Chat Page
+ ![website](https://user-images.githubusercontent.com/110999043/210724833-6b6d45c9-dfe5-45eb-ad3b-775bd7e0a5b0.PNG)
+
+ 
+ 
+ 
+ 
+ 
 
  
  
@@ -51,19 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
  
  
- # Samples
- 
- 1. Welcoming Page 
- ![portfolio_page](https://user-images.githubusercontent.com/110999043/210724273-fba9dbf3-e9c1-4b06-8751-0b987df2e6e4.PNG)
 
-
-
- 
- 2. Login and registration page
- 
-
- 
- 4. Dashboard Main Page 
  
  
 
