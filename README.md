@@ -40,7 +40,8 @@
  
  
  4. Create Page
- ![create_page](https://user-images.githubusercontent.com/110999043/210724662-812b2836-bc63-4135-8b77-9a9014006d46.PNG)
+![update_page_new](https://user-images.githubusercontent.com/110999043/210729533-a7bdd101-59f7-4757-a459-992f673d879d.PNG)
+
 
  5. Chat Page
  ![website](https://user-images.githubusercontent.com/110999043/210724833-6b6d45c9-dfe5-45eb-ad3b-775bd7e0a5b0.PNG)
