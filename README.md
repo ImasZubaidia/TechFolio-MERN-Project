@@ -54,6 +54,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  # Samples
  
  1. Welcoming Page 
+ ![portfolio_page](https://user-images.githubusercontent.com/110999043/210724273-fba9dbf3-e9c1-4b06-8751-0b987df2e6e4.PNG)
+
 
 
  
