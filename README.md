@@ -37,7 +37,7 @@
 
  
 3. Dashboard Main Page 
-  ![portfolio_page](https://user-images.githubusercontent.com/110999043/210724273-fba9dbf3-e9c1-4b06-8751-0b987df2e6e4.PNG)
+  ![home](https://user-images.githubusercontent.com/110999043/211081460-8aef593b-2592-46a8-8bed-5b6434178522.PNG)
  
  
  4. Create Page
